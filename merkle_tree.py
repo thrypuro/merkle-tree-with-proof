@@ -1,5 +1,4 @@
 import hashlib
-from logging import root 
 
 chunk_size = 1000 # 1 kb 
 

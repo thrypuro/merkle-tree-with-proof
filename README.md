@@ -1,3 +1,3 @@
 ### MERKLE TREEE
 
-Just a simple merkle tree script, while I was learning it.
+Just a simple merkle tree script that I made when I was learning about proof of inclusion.

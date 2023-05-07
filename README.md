@@ -1,3 +1,3 @@
 ### MERKLE TREEE
 
-TO THE MOOOOON, MY TXT IS IN THE BLOCKCHAIN
+Just a simple merkle tree script, while I was learning it.
